@@ -1,6 +1,6 @@
 <?php
 define('DEFAULT_VIEW', 'home');//set this to any page to be the default home page
-define('BASE_URL', 'http://corsair.cs.iupui.edu:19031/CIT313/SP2015/ex4/');
+define('BASE_URL', 'http://corsair.cs.iupui.edu:22771/CIT313/SP2018/ex4/');
 
 //database info
 define('DB_HOST', 'localhost');
